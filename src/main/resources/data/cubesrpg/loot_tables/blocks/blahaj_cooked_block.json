@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "cubesrpg:blahaj_block"
+          "name": "cubesrpg:blahaj_cooked_block"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "cubesrpg:blocks/blahaj_block"
+  "random_sequence": "cubesrpg:blocks/blahaj_cooked_block"
 }
